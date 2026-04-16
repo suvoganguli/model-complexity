@@ -66,4 +66,3 @@ This leads to a broader conclusion:
 
 ---
 
-o
