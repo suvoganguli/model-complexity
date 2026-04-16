@@ -1,0 +1,7 @@
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo ".DS_Store" >> .gitignore
+echo "data/raw/*" >> .gitignore
+echo "!data/raw/.gitkeep" >> .gitignore
+echo "data/processed/*" >> .gitignore
+echo "!data/processed/.gitkeep" >> .gitignore
